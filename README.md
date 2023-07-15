@@ -1,5 +1,10 @@
 #configuracion
 
+1 paso
+ composer install
+2 paso
+ php artisan serve
+  
 Esta API usa mailersend para gestionar envio de emails para recuperar contraseña, y validacion de formularios y acciones por recapcha de google
 
 // este comando para usar el servicio de colas de trabajo de Laravel cuando se activa el servicio de email
